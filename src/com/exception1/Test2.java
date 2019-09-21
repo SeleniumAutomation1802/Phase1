@@ -8,5 +8,5 @@ public class Test2 {
 		System.out.println("I have created new Feature Component: ");
 		
 	}
-
 }
+

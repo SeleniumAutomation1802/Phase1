@@ -7,6 +7,7 @@ public class Test2 {
 
 		System.out.println("I have created new Feature Component: ");
 		System.out.println("Hello this pritam");
+		System.out.println("I am from bangalore");
 		
 	}
 }
